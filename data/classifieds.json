@@ -1,0 +1,133 @@
+[
+    {
+        "id": "1",
+        "title": "Star Wars Socks",
+        "description": "Show your office the power of the dark side with these Star Wars themed socks. These officially licensed socks come in all of your favorite characters including R2D2, Darth Vader, Yoda, Stormtroopers, and Boba Fett. These will surely impress all of your friends at the next Star Wars premier. May the force be with you on lazy Sunday!",  
+        "price": 19.99,
+        "posted": "2016-02-12",
+        "contact":{
+            "name": "Jay Bhavsar",
+            "phone": "(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories": [
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2016/02/awesomestufftobuy_star-wars-socks-450x202.jpg",
+        "views": 47
+
+    },
+    {
+        "id":"2",
+        "title": "Electric Motor for Paper Airplanes",
+        "description": "Convert any paper airplane into a long range flying machine with the tiny electric motor (made with carbon fiber!). This tiny motor will power your paper airplane for 30 seconds while only taking 20 seconds to recharge!",  
+        "price": 16.99,
+        "posted":"2016-02-12",
+        "contact":{
+            "name":"Jay Bhavsar",
+            "phone":"(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories":[
+            "Vehicles",
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2015/12/awesomestufftobuy_electric-motor-for-paper-airplane-450x245.jpg",
+        "views": 102
+
+    },
+    {
+        "id":"3",
+        "title": "Emoji Keyboard",
+        "description": "We all love emoji, your nephew, friends and even grandmother are using emoji. Switching keyboards constantly can be tough but luckily the emoji keyboard is here to save the day and your time.",  
+        "price": 49.95,
+        "posted":"2016-02-12",
+        "contact":{
+            "name":"Jay Bhavsar",
+            "phone":"(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories":[
+            "Vehicles",
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2015/12/awesomestufftobuy_emoji-keyboard-450x299.jpg",
+        "views": 67
+
+    },
+    {
+        "id":"4",
+        "title": "Tesla Model S for Kids",
+        "description": "This officially licensed drivable Tesla Model S for kids from Radio Flyer is the peak of playground luxury. Everybody remember driving power wheels as a kid for 10 minutes at a time, well with this car’s extended battery technology will keep your kid cruising at 3 mph or 6 mph. The car also includes working headlines and a trunk in the front. Probably the ultimate icing on the cake is that it has a sound system to blast some tunes while cruising.",  
+        "price": 499,
+        "posted":"2016-02-12",
+        "contact":{
+            "name":"John Doe",
+            "phone":"(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories":[
+            "Vehicles",
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2016/02/awesomestufftobuy_tesla-model-s-for-kids-450x293.jpg",
+        "views": 47
+
+    },
+    {
+        "id":"5",
+        "title": "Lily Drone that Auto Follows You",
+        "description": "Have you ever wanted to film yourself doing something awesome but were without the resources to do so? Namely friends? Now you have no need of pesky human companionship, as Lily is a camera that auto-follows you. Film yourself skateboarding, snowboarding, or walking down the street, it doesn’t matter!",  
+        "price": 799,
+        "posted":"2016-02-12",
+        "contact":{
+            "name":"John Doe",
+            "phone":"(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories":[
+            "Vehicles",
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2015/06/awesomestufftobuy_lily-drone-that-auto-follows-you-450x300.jpg",
+        "views": 77
+
+    },    
+    {
+        "id":"6",
+        "title": "Boosted Board – Electric Skateboard",
+        "description": "Who doesn’t love to get around town quickly. Boosted boards can reach up to 22 mph and travel 7 miles, so you’ll be good for an all day trip. Weighing only 13.5 pounds you’ll be able to carry it anywhere with you, especially great for the coffee shop.",  
+        "price": 1499,
+        "posted":"2016-02-12",
+        "contact":{
+            "name":"John Doe",
+            "phone":"(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories":[
+            "Vehicles",
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2015/09/awesomestufftobuy_boosted-board-electric-skateboard-450x253.jpg",
+        "views": 47
+
+    },
+    {
+        "id":"7",
+        "title": "Guitar Doorbell",
+        "description": "The classic Ding-Dong doorbell has met its match. Check out this crafty and creative new take on  getting the attention of you inside your home. This guitar doorbell uses an actual guitar to notify you when guests (or others we wont speak of) arrive. If you have an extra guitar lying around you are probably someone who likes guitars… right? So get the set ready and listen to those sweet sweet acoustic melodies.",  
+        "price": 135.95,
+        "posted":"2016-02-12",
+        "contact":{
+            "name":"John Doe",
+            "phone":"(905)-905-9005",
+            "email": "reachme@jaybhavsar.com"
+        },
+        "categories":[
+            "Vehicles",
+            "Parts and Accessories"
+        ],
+        "image": "https://awesomestufftobuy.com/wp-content/uploads/2014/08/awesomestufftobuy_guitar-doorbell-400x400.jpg",
+        "views": 47
+    }
+]
